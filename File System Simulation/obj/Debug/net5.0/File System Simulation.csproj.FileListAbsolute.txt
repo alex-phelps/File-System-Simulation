@@ -1,0 +1,16 @@
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\bin\Debug\net5.0\File System Simulation.exe
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\bin\Debug\net5.0\File System Simulation.deps.json
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\bin\Debug\net5.0\File System Simulation.runtimeconfig.json
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\bin\Debug\net5.0\File System Simulation.runtimeconfig.dev.json
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\bin\Debug\net5.0\File System Simulation.dll
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\bin\Debug\net5.0\ref\File System Simulation.dll
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\bin\Debug\net5.0\File System Simulation.pdb
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.AssemblyInfo.cs
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.dll
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\ref\File System Simulation.dll
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.pdb
+C:\Users\Alex\Documents\Projects\File System Simulation\File System Simulation\obj\Debug\net5.0\File System Simulation.genruntimeconfig.cache
